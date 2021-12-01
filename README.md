@@ -30,24 +30,29 @@
 ### JavaScript
 
 ★★★★☆      중상
+
 ES6문법을 이해하고 DOM을 조작하여 인터렉티브한 기능 구현 가능
 Fetch API, Ajax를 이용하여 REST API 호출 가능
 호이스팅, 이벤트 버블링, 스코프, this의 개념을 이해함
 ### VueJS
 ★★★★☆ 중상
+
 Vuex를 활용하여 상태를 관리하는 소규모 프로젝트 진행 가능
 재사용성을 고려한 컴포넌트 설계
 
 ### ReactJS
 ★★★☆☆ 중
+
 JSX를 이해하고 Redux를 사용하여 상태를 관리하는 프로젝트 가능
 
 ### Java
 ★★★★☆ 중상
+
 객체, 다형성을 이해하고 적절한 자료구조 사용하여 알고리즘 구현 가능
 소규모 웹 서버 구축하여 Create, Read, Update, Delete 기능 구현 가능
 
 ### Spring
 ★★★☆☆ 중
+
 REST API 서버 구현 가능
 MySQL, MyBatis와 연동하여 웹 서버 구축
