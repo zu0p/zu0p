@@ -8,17 +8,33 @@
 
 ## **함께, 또 따로 일하는 개발자 박주영입니다.**
 
-주도적으로 일하는 것을 좋아하는 프론트엔드 개발자 박주영입니다.
+React.js와 Next.js 기반 실서비스에서 성능 최적화와 사용자 경험 개선을 주도한 프론트엔드 개발자입니다.
+실무 프로젝트에서 SEO 향상, 로딩 속도 단축, UX 개선 등 구체적 성과를 달성했으며, 디자이너·백엔드와의 긴밀한 협업을 통해 서비스 품질을 높이는 개발문화를 지향합니다.
 
+- 웹 성능 최적화: 코드 스플리팅, ISR, 이미지 최적화로 LCP 및 로딩 속도 개선
+- 사용자 경험 향상: Suspense·Skeleton UI, 반응형 레이아웃 설계
+- 서비스 운영 관점의 개발: SEO 메타 태그 적용, 검색 노출 개선
+- 문제 해결 중심 개발: 버그 분석·재현·해결 과정의 체계적 접근
+- 효율적 협업: GitHub Flow 기반 버전 관리, Figma·Zeplin 협업 경험
 
-함께 의견을 나누는 과정에서 발전하고 성장하는 것을 추구하며, 
+---
 
-혼자서 몰입하는 시간을 중요하게 생각합니다. 온전히 집중하는 시간에 개발 몰입도가 높아 창의적이고 효율적인 코드를 만들어 냅니다.
+## 주요 기술
+### Front-end 
+- Language: TypeScript(제네릭·유틸리티 타입 설계), JavaScript(ES6+)
+- Framework: React.js, Next.js (CSR/SSR/ISR)
+- State Management: Zustand, React Query(TanStackQuery)
+- Styling: Styled-components, tailwind
+- UI 개발: Storybook 기반 디자인 시스템 설계·테스트
 
+### Back-end & DB
+- Node, Express 기반 REST API 설계 및 구현
+- Next.js API Routes 서버사이드 API 개발
+- MySQL CRUD 및 DB 연동 경험
+- PostgreSQL CRUD 및 Prisma ORM 경험
 
-반복되는 코드를 줄이고 효율적인 코드를 만들기 위해 설계하고🛠 개발합니다👩🏻‍💻.
-
-좋은 사람들과 함께 좋은 서비스를 만들어나가고 싶습니다.
+### Tool & Collaboration
+- Git, GitHub, Figma, Zeplin
 
 ---
 
@@ -38,34 +54,6 @@
 
 2022.01 ~ 2023.10 (프론트엔드 개발자)
 
+### 멋쟁이사자처럼 (프론트엔드 단기심화 부트캠프)
 
----
-
-### 주요 기술
-
-#### JavaScript
-★★★★☆      중상
-
-- ES6문법을 이해하고 DOM을 조작하여 인터렉티브한 기능 구현
-- Fetch API, Ajax를 이용하여 REST API 호출
-- 호이스팅, 이벤트 버블링, 스코프, this의 개념을 이해
-
-#### ReactJS
-★★★★☆ 중상
-
-- JSX와 리액트의 라이프싸이클을 이해하고, 상태변수 관리
-- 라우터를 통해 SPA 제작
-- React Hook을 이해, 커스텀 훅 제작 및 관리
-
-#### NextJS
-★★★☆☆ 중
-
-- 리액트에서 SEO를 위한 SSR 작업 수행
-- 페이지 기반 라우팅 처리
-
-
-#### VueJS
-★★★☆☆ 중
-
-- Vuex를 활용하여 상태를 관리하는 프로젝트 설계 및 개발
-- 재사용성을 고려한 컴포넌트 설계
+2025.06 ~ 2025.08 (수료)
