@@ -1,60 +1,36 @@
-# 안녕하세요 박주영입니다 👋
+Hi there 👋  I'm a Frontend Developer with nearly 2 years of experience in a startup environment.
 
-**E-mail.**  zu0p@kakao.com
+I majored in Computer Software Engineering and have a strong foundation in software architecture and data structures.  
+While my primary focus is frontend development, I also have experience in backend implementation and database design.
 
-**GitHub.**  https://github.com/zu0p
+I enjoy building scalable UI architectures, designing clean component structures, and implementing interactive user experiences. 
+My goal is to create well-structured, maintainable, and user-centered services. 
 
----
+Always learning, always improving. 🚀
 
-## **함께 만드는 가치와, 스스로 해결하는 힘을 갖춘 개발자 박주영입니다.**
+### Resume & Portfolio
 
-React.js와 Next.js 기반 실서비스에서 성능 최적화와 사용자 경험 개선을 주도한 프론트엔드 개발자입니다.
-
-실무 프로젝트에서 SEO 향상, 로딩 속도 단축, UX 개선 등 구체적 성과를 달성했으며, 디자이너·백엔드와의 긴밀한 협업을 통해 서비스 품질을 높이는 개발문화를 지향합니다.
-
-- 웹 성능 최적화: 코드 스플리팅, ISR, 이미지 최적화로 LCP 및 로딩 속도 개선
-- 사용자 경험 향상: Suspense·Skeleton UI, 반응형 레이아웃 설계
-- 서비스 운영 관점의 개발: SEO 메타 태그 적용, 검색 노출 개선
-- 문제 해결 중심 개발: 버그 분석·재현·해결 과정의 체계적 접근
-- 효율적 협업: GitHub Flow 기반 버전 관리, Figma·Zeplin 협업 경험
-
----
-
-## 주요 기술
-### Front-end 
-- Language: TypeScript(제네릭·유틸리티 타입 설계), JavaScript(ES6+)
-- Framework: React.js, Next.js (CSR/SSR/ISR)
-- State Management: Zustand, React Query(TanStackQuery)
-- Styling: Styled-components, tailwind
-- UI 개발: Storybook 기반 디자인 시스템 설계·테스트
-
-### Back-end & DB
-- Node, Express 기반 REST API 설계 및 구현
-- Next.js API Routes 서버사이드 API 개발
-- MySQL CRUD 및 DB 연동 경험
-- PostgreSQL CRUD 및 Prisma ORM 경험
-
-### Tool & Collaboration
-- Git, GitHub, Figma, Zeplin
-
----
-
-## 타임라인
-
-### 금오공과대학교
-
-컴퓨터소프트웨어공학과 2016.03 입학 ~ 2020.02 졸업
+<a href="https://docs.google.com/document/d/1OMe2xFE5URCLTBA9QbcyxR5GzJbbZltDLQF42S3KKOA/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-E4405F?style=for-the-badge&link=https://docs.google.com/document/d/1OMe2xFE5URCLTBA9QbcyxR5GzJbbZltDLQF42S3KKOA/edit?usp=sharing"/></a>
+<a href="https://drive.google.com/file/d/1KupaIrMTxRN795xZFhRIIRQ9nuSHD70h/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3ECC5F?style=for-the-badge&link=https://drive.google.com/file/d/1KupaIrMTxRN795xZFhRIIRQ9nuSHD70h/view?usp=sharing"/></a>
 
 
-### 삼성청년소프트웨어아카데미(SSAFY)
 
-2021.01 ~ 2021.12(수료)
+### Contact
+✉️ zu0p@kakao.com
 
+### Skills
+**Front-end**
 
-### Stipop
+<img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/next.js-000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?&style=for-the-badge&logo=styledcomponents&logoColor=white"/>
 
-2022.01 ~ 2023.10 (프론트엔드 개발자)
+**Back-end**
 
-### 멋쟁이사자처럼 (프론트엔드 단기심화 부트캠프)
+<img src="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-5FA04E?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
-2025.06 ~ 2025.08 (수료)
+**Tool**
+
+<img src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?&style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white"/>
+
