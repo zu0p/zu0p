@@ -11,7 +11,7 @@ Always learning, always improving. 🚀
 ### Resume & Portfolio
 
 <a href="https://docs.google.com/document/d/1OMe2xFE5URCLTBA9QbcyxR5GzJbbZltDLQF42S3KKOA/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-E4405F?style=for-the-badge&link=https://docs.google.com/document/d/1OMe2xFE5URCLTBA9QbcyxR5GzJbbZltDLQF42S3KKOA/edit?usp=sharing"/></a>
-<a href="https://drive.google.com/file/d/1KupaIrMTxRN795xZFhRIIRQ9nuSHD70h/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3ECC5F?style=for-the-badge&link=https://drive.google.com/file/d/1KupaIrMTxRN795xZFhRIIRQ9nuSHD70h/view?usp=sharing"/></a>
+<a href="https://drive.google.com/file/d/1M7xF8yslvKDLIhJIOuLSSmq-0vNYQima/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3ECC5F?style=for-the-badge&link=https://drive.google.com/file/d/1M7xF8yslvKDLIhJIOuLSSmq-0vNYQima/view?usp=sharing"/></a>
 
 
 
